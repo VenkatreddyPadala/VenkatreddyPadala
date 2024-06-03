@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkat reddy padala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat reddy padala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/venkatreddypadala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatreddypadala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkat-reddy-padala-2477a227a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat reddy padala" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/FFgISVMmdk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatreddypadala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
